@@ -1,0 +1,14 @@
+# Java / Eclipse output
+bin/
+*.class
+
+# Mac
+.DS_Store
+**/.DS_Store
+
+# Eclipse (optional: keep if you want Eclipse import to be seamless)
+# .classpath
+# .project
+# .settings/
+
+

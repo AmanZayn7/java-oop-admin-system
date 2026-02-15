@@ -1,0 +1,7 @@
+a,a,1050.0
+d,a,0
+cody,liew,838.0
+test,123,100
+mori,pass,0
+mori2,pass12,0
+Aman,pass,0
