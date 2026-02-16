@@ -172,14 +172,6 @@ As stated in the assignment documentation :contentReference[oaicite:3]{index=3}:
 
 ---
 
-## Academic Context
-
-Module: Object Oriented Java Programming  
-Technology Park Malaysia  
-Handout Date: 1 December 2023  
-Submission Date: 23 February 2024 :contentReference[oaicite:4]{index=4}  
-
----
 
 ## Conclusion
 
